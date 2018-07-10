@@ -1,4 +1,4 @@
-# Sample Website
+# Sample Apps
 
 This is a sample repository made as part of [*The Ruby On Rails Tutorial*](https://www.railstutorial.org), possibly the greatest
 beginner ruby on rails tutorial in the history of the Universe. You should totally [
